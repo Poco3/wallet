@@ -8,6 +8,7 @@
       </p>
     </div>
     <h1>ユーザー覧</h1>
+    {{user}}
   </div>
 </template>
 
