@@ -3,7 +3,7 @@
     <div class="title">
       <h2>{{user}}さんようこそ!!</h2>
       <p>
-        残高:1000
+        残高1000
         <button>ログアウト</button>
       </p>
     </div>
